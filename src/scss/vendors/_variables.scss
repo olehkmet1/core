@@ -1,0 +1,9 @@
+// Override Boostrap variables
+@import "../variables";
+@import "~bootstrap/scss/mixins";
+@import "~@coreui/coreui/scss/variables";
+
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136
+);
